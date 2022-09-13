@@ -26,14 +26,14 @@ const About = () => {
               <small>3+ years Working </small>
             </article>
 
-            <article className="client__card">
-              <FiUsers className="clients__icon" />
+            <article className="about__card">
+              <FiUsers className="about__icon" />
               <h5>Clients</h5>
               <small>0 Worldwide</small>
             </article>
 
-            <article className="project__card">
-              <AiOutlineFolderOpen className="projects__icon" />
+            <article className="about__card">
+              <AiOutlineFolderOpen className="about__icon" />
               <h5>Projects</h5>
               <small>3+ Completed projects</small>
             </article>
