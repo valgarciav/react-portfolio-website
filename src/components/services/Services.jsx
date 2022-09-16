@@ -79,11 +79,6 @@ const Services = () => {
               <BsCheckLg className="service__list-icon" />
               <p> Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
             </li>
-
-            <li>
-              <BsCheckLg className="service__list-icon" />
-              <p> Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
-            </li>
           </ul>
         </article>
         {/*END OF WEB DEVELOPMENT*/}
@@ -109,6 +104,10 @@ const Services = () => {
               <p> Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
             </li>
 
+            <li>
+              <BsCheckLg className="service__list-icon" />
+              <p> Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+            </li>
             <li>
               <BsCheckLg className="service__list-icon" />
               <p> Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
