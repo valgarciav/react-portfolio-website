@@ -1,5 +1,6 @@
 .container.tesimonials_container {
   width: 40%;
+  padding-bottom: 4rem;
 }
 
 .client__avatar {
@@ -13,13 +14,13 @@
 .testimonial {
   background: var(--color-bg-variant);
   text-align: center;
-  padding: 2rem;
+  padding: 3rem;
   border-radius: 2rem;
   user-select: none;
 }
 
 .client__review {
-  color: var(color-light);
+  color: var(--color-light);
   font-weight: 33;
   display: block;
   width: 80%;
