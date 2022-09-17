@@ -1,8 +1,24 @@
 import React from "react";
 import "./contact.css";
 import { MdOutlineEmail } from "react-icons/md";
+import { useRef } from "react";
+import emailjs from "emailjs-com";
 
 const Contact = () => {
+  const form = useRef();
+  const sendEmail = (e) => {
+    e.preventDefault();
+
+    emailjs.sendForm(
+      "service_lrzcx57",
+      "template_uhyjuuk",
+      form.current,
+      "ab62tkvpuaKiN_8ED"
+    );
+
+    e.target.reset();
+  };
+
   return (
     <section id="contact">
       <h5>Get In Touch</h5>
@@ -21,7 +37,7 @@ const Contact = () => {
         </div>
 
         {/*END OF CONTACT OPTOINS */}
-        <form action="">
+        <form ref={form} onSubmit={sendEmail}>
           <input
             type="text"
             name="name"
