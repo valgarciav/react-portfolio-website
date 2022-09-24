@@ -2,6 +2,8 @@ import React from "react";
 import "./footer.css";
 import { BsInstagram } from "react-icons/bs";
 import { BsTwitter } from "react-icons/bs";
+import { BsLinkedin } from "react-icons/bs";
+import { FaGithub } from "react-icons/fa";
 
 const Footer = () => {
   return (
@@ -37,6 +39,12 @@ const Footer = () => {
         </a>
         <a href="https://twitter.com/thatssovaleriaa">
           <BsTwitter />
+        </a>
+        <a href="https://www.linkedin.com/in/valeria-garciav/">
+          <BsLinkedin />
+        </a>
+        <a href="https://github.com/valgarciav">
+          <FaGithub />
         </a>
       </div>
 
