@@ -23,8 +23,8 @@ const Services = () => {
             <li>
               <BsCheckLg className="service__list-icon" />
               <p>
-                Maintain communication between state, DMV, and client to ensure
-                clients on the program are meeting state requirements.
+                Communicate between state, DMV, and client to ensure state
+                requirements are met
               </p>
             </li>
 
@@ -35,12 +35,17 @@ const Services = () => {
 
             <li>
               <BsCheckLg className="service__list-icon" />
-              <p> Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+              <p>
+                Implemented templates for quick and consistent communication
+              </p>
             </li>
 
             <li>
               <BsCheckLg className="service__list-icon" />
-              <p> Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+              <p>
+                Created partnerships with state and reps to optimize response
+                time
+              </p>
             </li>
           </ul>
         </article>
@@ -55,32 +60,38 @@ const Services = () => {
           <ul className="service__list">
             <li>
               <BsCheckLg className="service__list-icon" />
-              <p> Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+              <p>
+                Provided clients with high level service, privacy and
+                confidentiality
+              </p>
             </li>
 
             <li>
               <BsCheckLg className="service__list-icon" />
-              <p> Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+              <p>
+                Handled account services, monetary transactions and foreign
+                exchange
+              </p>
             </li>
 
             <li>
               <BsCheckLg className="service__list-icon" />
-              <p> Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+              <p>
+                Verified clients and took necessary measures for risk management
+              </p>
             </li>
 
             <li>
               <BsCheckLg className="service__list-icon" />
-              <p> Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+              <p>
+                Worked in a teamwork setting that consisted of daily conflict
+                resolution, critical thinking and problem solving
+              </p>
             </li>
 
             <li>
               <BsCheckLg className="service__list-icon" />
-              <p> Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
-            </li>
-
-            <li>
-              <BsCheckLg className="service__list-icon" />
-              <p> Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+              <p> Developed interpersonal skills and client centricity</p>
             </li>
           </ul>
         </article>
@@ -94,26 +105,26 @@ const Services = () => {
           <ul className="service__list">
             <li>
               <BsCheckLg className="service__list-icon" />
-              <p> Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+              <p>
+                Coordinated activities, services, and arrangements to be
+                scheduled on time for services.
+              </p>
             </li>
 
             <li>
               <BsCheckLg className="service__list-icon" />
-              <p> Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+              <p>
+                Gathered vital information about deceased person to dispatch
+                team to needed location.
+              </p>
             </li>
 
             <li>
               <BsCheckLg className="service__list-icon" />
-              <p> Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
-            </li>
-
-            <li>
-              <BsCheckLg className="service__list-icon" />
-              <p> Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
-            </li>
-            <li>
-              <BsCheckLg className="service__list-icon" />
-              <p> Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+              <p>
+                Provided welcoming and empathetic communication with family of
+                deceased or hospice to coordinate pick up for dispatch team
+              </p>
             </li>
           </ul>
         </article>
