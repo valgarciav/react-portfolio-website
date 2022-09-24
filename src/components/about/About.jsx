@@ -2,8 +2,8 @@ import React from "react";
 import "./about.css";
 import ME from "../../assets/me-about.jpg";
 import { FaAward } from "react-icons/fa";
-import { FiUsers } from "react-icons/fi";
-import { AiOutlineFolderOpen } from "react-icons/ai";
+//import { FiUsers } from "react-icons/fi";
+//import { AiOutlineFolderOpen } from "react-icons/ai";
 
 const About = () => {
   return (
@@ -22,32 +22,35 @@ const About = () => {
           <div className="about__cards">
             <article className="about__card">
               <FaAward className="about__icon" />
-              <h5>Experience</h5>
-              <small>3+ years Working </small>
+              <h5>Fundamentals of Digital Marketing, Google</h5>
+              <small>2022</small>
             </article>
 
             <article className="about__card">
-              <FiUsers className="about__icon" />
-              <h5>Clients</h5>
-              <small>0 Worldwide</small>
+              <FaAward className="about__icon" />
+              <h5>North Carolina Certified Nurse Assistant</h5>
+              <small>2021</small>
             </article>
 
             <article className="about__card">
-              <AiOutlineFolderOpen className="about__icon" />
-              <h5>Projects</h5>
-              <small>3+ Completed projects</small>
+              <FaAward className="about__icon" />
+              <h5>Registered Yoga Teacher</h5>
+              <small>2020</small>
             </article>
           </div>
 
           <p>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore esse
-            numquam eligendi nulla distinctio, reiciendis ex dolorem. Ab quos
-            eius aliquid aut. Dolore pariatur quo ratione consequuntur
-            reiciendis voluptates facilis.
+            NCSU Software engineer student graduating in October of 2022.
+            Education background is in healthcare and work experience in the
+            banking industry, both consisting of teamwork-oriented environments
+            with high demand for attention to detail and problem solving.
+            Decided to change direction and found a passion in the world of
+            software development. Creative problem solving is what gets me out
+            of bed in the morning.
           </p>
           <a href="#contact" className="btn btn-primary">
             {" "}
-            Let's Talk
+            Let's Connect
           </a>
         </div>
       </div>

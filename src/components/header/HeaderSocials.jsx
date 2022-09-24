@@ -5,14 +5,14 @@ import { BsInstagram } from "react-icons/bs";
 
 const HeaderSocials = () => {
   return (
-    <div className="header__socials">
-      <a href="https://linkedin.com" target="_blank">
+    <div className="header_socials">
+      <a href="https://www.linkedin.com/in/valeria-garciav/" target="_blank">
         <BsLinkedin />
       </a>
-      <a href="https://github.com" target="_blank">
+      <a href="https://github.com/valgarciav" target="_blank">
         <FaGithub />
       </a>
-      <a href="https://instagram.com" target="_blank">
+      <a href="https://www.instagram.com/valgarcia_v/" target="_blank">
         <BsInstagram />
       </a>
     </div>
