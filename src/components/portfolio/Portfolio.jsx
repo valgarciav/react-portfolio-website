@@ -3,9 +3,9 @@ import "./portfolio.css";
 import IMG1 from "../../assets/musicSearch.png";
 import IMG2 from "../../assets/webGameJS.png";
 import IMG3 from "../../assets/wisperApp.png";
-import IMG4 from "../../assets/portfolio4.jpg";
-import IMG5 from "../../assets/portfolio5.png";
-import IMG6 from "../../assets/portfolio6.jpg";
+// import IMG4 from "../../assets/portfolio4.jpg";
+// import IMG5 from "../../assets/portfolio5.png";
+// import IMG6 from "../../assets/portfolio6.jpg";
 
 const data = [
   {
@@ -39,7 +39,7 @@ const data = [
   // {
   //   id: 5,
   //   image: IMG5,
-  //   title: "",
+  //   title: "",npm
   //   github: "https:github.com",
   //   demo: "",
   // },
